@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.WeatherApp" parent="Theme.AppCompat.Light.NoActionBar">
+        <item name="colorPrimary">@color/primaryColor</item>
+        <item name="colorSecondary">@color/secondaryColor</item>
+        <item name="color">@color/black</item>
+        <item name="colorAccent">@color/white</item>
+    </style>
+</resources>
